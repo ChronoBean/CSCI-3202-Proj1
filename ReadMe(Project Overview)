@@ -7,19 +7,19 @@ Project Overview:
 I propose an AI project focused on developing a facial emotion detection program. The objective is to leverage AI algorithms to accurately analyze facial expressions and determine the emotions exhibited by individuals. This project aims to create a program that can detect a wide range of emotions, including but not limited to happiness, sadness, anger, fear, surprise, and disgust.
 
 Program/Platform:
-We plan to utilize deep learning techniques, specifically convolutional neural networks (CNNs), to train our facial emotion detection program. We will employ popular deep learning frameworks such as TensorFlow or PyTorch, along with relevant libraries like OpenCV for image processing and data augmentation.
+I plan to utilize deep learning techniques, specifically convolutional neural networks (CNNs), to train our facial emotion detection program. I will employ popular deep learning frameworks such as TensorFlow or PyTorch, along with relevant libraries like OpenCV for image processing and data augmentation. I could also use something like Py-Feat as an alternative due to the fact that it has pre-trained models and includes image processing.
 
 Expected Outcomes:
-a) Training Dataset: We will curate a diverse and extensive dataset of labeled facial expression images from various sources, ensuring inclusivity and representation of different demographics. The dataset will be preprocessed to enhance the quality and normalize the images for training purposes.
+a) Training Dataset: I will curate a diverse and extensive dataset of labeled facial expression images from various sources, ensuring inclusivity and representation of different demographics. The dataset will be preprocessed to enhance the quality and normalize the images for training purposes.
 
-b) Model Development: We will design and train a CNN-based model that learns to recognize and classify facial expressions. The model will undergo iterative training and fine-tuning to optimize its accuracy and robustness.
+b) Model Development: I will design and train a CNN-based model that learns to recognize and classify facial expressions. The model will undergo iterative training and fine-tuning to optimize its accuracy and robustness.
 
-c) Evaluation and Validation: We will evaluate the performance of the developed model using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. We will employ cross-validation techniques to ensure the model's generalizability.
+c) Evaluation and Validation: I will evaluate the performance of the developed model using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. I will employ cross-validation techniques to ensure the model's generalizability.
 
-d) User Interface: We aim to create a user-friendly interface that allows users to upload images or access real-time video feed for emotion detection. The program will provide accurate emotion predictions along with visual representations, such as bounding boxes or overlayed emoticons, to enhance user experience and interpretability.
+d) User Interface: I aim to create a user-friendly interface that allows users to upload images or access real-time video feed for emotion detection. The program will provide accurate emotion predictions along with representations of the results to enhance user experience and interpretability.
 
 Modality for Housing the Program/Project:
-We propose housing the facial emotion detection program on a collaborative platform like GitHub. This will facilitate version control, code sharing, and community engagement. The repository will contain the source code, documentation, and guidelines for usage, thereby ensuring transparency and enabling contributions from the wider developer community.
+I propose housing the facial emotion detection program on a collaborative platform like GitHub. This will facilitate version control, code sharing, and community engagement. The repository will contain the source code, documentation, and guidelines for usage, thereby ensuring transparency and enabling contributions from the wider developer community.
 
 Timeline:
 The proposed timeline for the project is as follows:
@@ -30,4 +30,4 @@ Evaluation and optimization: July 13-14
 User interface development: July 15
 Final testing, documentation, and GitHub repository setup: July 16
 
-In conclusion, the proposed facial emotion detection program aims to leverage AI algorithms to accurately identify emotions based on facial expressions. By employing deep learning techniques and housing the project on GitHub, we anticipate achieving robust results, fostering collaboration, and promoting transparency. This project has the potential to contribute to various fields, including psychology, human-computer interaction, and customer service.
+In conclusion, the proposed facial emotion detection program aims to leverage AI algorithms to accurately identify emotions based on facial expressions. By employing deep learning techniques and housing the project on GitHub, I anticipate achieving robust results, fostering collaboration, and promoting transparency.
